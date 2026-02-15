@@ -86,6 +86,16 @@
   </style>
 </head>
 <body>
+<nav style="position:fixed; top:0; width:100%; background:#000; padding:16px 30px; display:flex; justify-content:space-between; align-items:center; z-index:1000;">
+  <strong style="letter-spacing:2px;">R8MANS</strong>
+  <div style="display:flex; gap:20px;">
+    <a href="index.html" style="color:#fff; text-decoration:none;">Home</a>
+    <a href="roster.html" style="color:#fff; text-decoration:none;">Roster</a>
+    <a href="jersey.html" style="color:#fff; text-decoration:none;">Jersey</a>
+    <a href="apply.html" style="color:#fff; text-decoration:none;">Apply</a>
+  </div>
+</nav>
+<div style="height:70px;"></div>
 
 <header>
   <!-- Replace src with your uploaded logo -->
@@ -121,9 +131,41 @@
   <p>We are always looking for dedicated players, creators, and staff.</p>
 </section>
 
+<section>
+  <h2>Official Jersey</h2>
+  <p>Our official R8MANS competition jersey — minimalist, professional, and tournament-ready.</p>
+  <div class="cards">
+    <div class="card">
+      <img src="jersey.png" alt="R8MANS Jersey" style="width:100%; border-radius:14px;" />
+      <h3>2026 Pro Jersey</h3>
+      <p>White & black performance fit. Worn on stage.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Apply to Join R8MANS</h2>
+  <p>Players, creators, and staff can apply below. We review all serious applications.</p>
+  <form action="https://formspree.io/f/yourformid" method="POST" style="max-width:600px; margin-top:30px;">
+    <div style="margin-bottom:15px;">
+      <input type="text" name="name" placeholder="Name / IGN" required style="width:100%; padding:14px; border-radius:10px; border:none;" />
+    </div>
+    <div style="margin-bottom:15px;">
+      <input type="email" name="email" placeholder="Email" required style="width:100%; padding:14px; border-radius:10px; border:none;" />
+    </div>
+    <div style="margin-bottom:15px;">
+      <input type="text" name="role" placeholder="Role (Player, Creator, Staff)" required style="width:100%; padding:14px; border-radius:10px; border:none;" />
+    </div>
+    <div style="margin-bottom:15px;">
+      <textarea name="message" placeholder="Tell us about yourself" rows="5" required style="width:100%; padding:14px; border-radius:10px; border:none;"></textarea>
+    </div>
+    <button type="submit" style="padding:14px 32px; border-radius:999px; border:none; font-weight:600; cursor:pointer;">Submit Application</button>
+  </form>
+</section>
+
 <section class="cta">
   <h2>Contact & Partnerships</h2>
-  <p>Business inquiries, sponsorships, and team applications.</p>
+  <p>Business inquiries, sponsorships, and collaborations.</p>
   <a href="mailto:r8mansesports@gmail.com">Contact Us</a>
 </section>
 
@@ -133,3 +175,45 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>R8MANS Jersey</title>
+</head>
+<body>
+
+<nav></nav>
+
+<section>
+  <h2>Official Jersey</h2>
+  <img src="jersey.png" style="max-width:800px; width:100%; border-radius:20px;">
+  <p>Official on-stage competition jersey.</p>
+</section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Apply | R8MANS</title>
+</head>
+<body>
+
+<nav></nav>
+
+<section>
+  <h2>Apply to R8MANS</h2>
+  <form action="https://formspree.io/f/mykdwaen" method="POST">
+    <input type="text" name="name" placeholder="IGN / Name" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="text" name="role" placeholder="Player / Creator / Staff" required>
+    <textarea name="message" placeholder="Tell us about yourself" required></textarea>
+    <button type="submit">Submit</button>
+  </form>
+</section>
+
+</body>
+</html>
+
