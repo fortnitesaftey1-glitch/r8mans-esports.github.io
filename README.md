@@ -216,6 +216,8 @@
 
 </body>
 </html>
-<img src="logo.png" alt="R8MANS Logo">
-<img src="jersey.png" alt="R8MANS Jersey">
+<img src="ChatGPT Image Feb 14, 2026, 10_08_57 PM (1).png
+" alt="R8MANS Logo">
+<img src="ChatGPT Image Feb 15, 2026, 04_13_36 PM.png
+" alt="R8MANS Jersey">
 
