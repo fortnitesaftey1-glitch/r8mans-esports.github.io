@@ -216,4 +216,6 @@
 
 </body>
 </html>
+<img src="logo.png" alt="R8MANS Logo">
+<img src="jersey.png" alt="R8MANS Jersey">
 
