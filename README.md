@@ -99,7 +99,8 @@
 
 <header>
   <!-- Replace src with your uploaded logo -->
-  <img src="logo.png" alt="R8MANS Logo" />
+  <img src="ChatGPT Image Feb 14, 2026, 10_08_57 PM (1).png
+" alt="R8MANS Logo" />
   <h1>R8MANS</h1>
   <p>Faith-driven. Competitive. Professional esports organization competing at the highest level.</p>
 </header>
@@ -187,7 +188,8 @@
 
 <section>
   <h2>Official Jersey</h2>
-  <img src="jersey.png" style="max-width:800px; width:100%; border-radius:20px;">
+  <img src="ChatGPT Image Feb 15, 2026, 04_13_36 PM.png
+" style="max-width:800px; width:100%; border-radius:20px;">
   <p>Official on-stage competition jersey.</p>
 </section>
 
@@ -216,8 +218,3 @@
 
 </body>
 </html>
-<img src="ChatGPT Image Feb 14, 2026, 10_08_57 PM (1).png
-" alt="R8MANS Logo">
-<img src="ChatGPT Image Feb 15, 2026, 04_13_36 PM.png
-" alt="R8MANS Jersey">
-
